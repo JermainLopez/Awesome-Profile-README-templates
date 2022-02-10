@@ -9,7 +9,7 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="50%">
+<td align-itmen ="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
 </td>
 
